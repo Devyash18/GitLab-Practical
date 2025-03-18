@@ -1,7 +1,3 @@
-## 🎨 Demo Preview (HTML & CSS)
-Here is a simple **HTML & CSS** snippet from the project:
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,4 +32,3 @@ Here is a simple **HTML & CSS** snippet from the project:
     <button class="btn">Submit a Report</button>
 </body>
 </html>
-
