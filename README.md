@@ -2,12 +2,13 @@
 
 A system to help users report and find lost items **easily**.  
 
-## 🚀 Features  
+## 🚀 Features  (also adding a contact us page in the website)
 ✅ Report lost & found items  
 ✅ Search & filter items  
 ✅ User authentication  
 ✅ Real-time updates  
-✅ Admin panel for moderation  
+✅ Admin panel for moderation 
+
 
 ## 👥 Meet Our Team  
 - 🖥️ **YB** - Frontend Developer  
