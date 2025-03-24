@@ -2,7 +2,7 @@
 
 A system to help users report and find lost items **easily**.  
 
-## 🚀 Features  (also adding a contact us page in the website)
+## 🚀 Features 
 ✅ Report lost & found items  
 ✅ Search & filter items  
 ✅ User authentication  
